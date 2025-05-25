@@ -48,7 +48,7 @@ layers:
   '2':
   - Esc
   - AMPS
-  - KP MULTIPLY
+  - '*'
   - (
   - _
   - Home
